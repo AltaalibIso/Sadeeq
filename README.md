@@ -34,6 +34,10 @@ Contributions to Sadeeq are welcome! If you have ideas for new features or impro
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
+
+
+- - - - - - - - - - - - - - 
+
 Sadeeq Голосовой Ассистент
 
 Sadeeq - это голосовой ассистент на Java, способный взаимодействовать с пользователями через голосовые команды и предоставлять ответы, сгенерированные моделью GPT.
